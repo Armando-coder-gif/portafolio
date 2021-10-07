@@ -35,7 +35,7 @@ body{
 }
 
 .skills-h3{
-    color: aliceblue;
+    color: rgb(231, 239, 245);
 }
 
 /* SKILLS */
@@ -45,8 +45,27 @@ body{
     color: rgb(243, 203, 26);
     margin-top: 100px
 }
-/* th, td{
-    color: #fff;
-} */
-
 /* COURSES */
+
+/* SOCIAL MEDIA */
+.container-black{
+    background-color: rgb(20, 20, 20);
+    width: 100%;
+    height: 300px;
+}
+
+.container-black h2{
+    padding-top: 30px;
+}
+
+#social-media{
+    color: rgb(243, 203, 26);
+    margin-top: 100px
+}
+
+.title-social{
+    color: rgb(231, 239, 245);
+    font-size: 1.5rem;
+}
+
+/* SOCIAL MEDIA */
