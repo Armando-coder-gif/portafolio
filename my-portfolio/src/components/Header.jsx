@@ -13,8 +13,7 @@ const Header = () => {
                         <Nav className="me-auto">
                             <Nav.Link href="#personal-info">Personal Information</Nav.Link>
                             <Nav.Link href="#skills">Skills</Nav.Link>
-                            <Nav.Link href="#courses">courses</Nav.Link>
-                            <Nav.Link href="#cv">CV</Nav.Link>
+                            <Nav.Link href="#courses">Courses</Nav.Link>
                             <Nav.Link href="#social-media">Social Media</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>

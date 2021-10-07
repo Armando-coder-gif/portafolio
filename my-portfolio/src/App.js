@@ -1,4 +1,5 @@
 import React from 'react';
+import Courses from './components/Courses';
 import Header from './components/Header';
 import Info from './components/Info';
 import Skills from './components/Skills';
@@ -10,6 +11,7 @@ function App() {
       <Header/>
       <Info />
       <Skills/>
+      <Courses />
     </>
   );
 }

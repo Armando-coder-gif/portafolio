@@ -14,7 +14,7 @@ function Info() {
             
             </Row>
 
-            <Row>
+            <Row className="justify-content-md-center">
                 <Col>
                     <h2 className="text-center" id="personal-info" >Personal Information</h2>
                         <p className="info">My name is Armando Jose González Urbina.
