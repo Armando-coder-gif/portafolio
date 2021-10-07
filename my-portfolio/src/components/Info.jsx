@@ -16,20 +16,13 @@ function Info() {
 
             <Row>
                 <Col>
-                    <h2 className="text-center mb-4" id="personal-info" >Personal Information</h2>
+                    <h2 className="text-center" id="personal-info" >Personal Information</h2>
                         <p className="info">My name is Armando Jose González Urbina.
                             I am 20 years old. I like to study new technologies to improve my
                             knowledges. 
                         </p>   
                 </Col>
             </Row>
-            
-            
-            
-            
-            
-            
-
             
         </Container>
     )
