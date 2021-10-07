@@ -1,10 +1,37 @@
 import React from 'react';
+import { Container, Col, Row } from 'react-bootstrap';
+// import image_1 from '../images/image.png';
 
 function Info() {
     return (
-        <div>
+        <Container>
+
+            <Row>
+                <Col>
+                    <h1 className="title mt-5">Web Developer</h1>
+                    <p className="info">I find solutions for you👨‍💻.</p>
+                </Col>
             
-        </div>
+            </Row>
+
+            <Row>
+                <Col>
+                    <h2 className="text-center mb-4" id="personal-info" >Personal Information</h2>
+                        <p className="info">My name is Armando Jose González Urbina.
+                            I am 20 years old. I like to study new technologies to improve my
+                            knowledges. 
+                        </p>   
+                </Col>
+            </Row>
+            
+            
+            
+            
+            
+            
+
+            
+        </Container>
     )
 }
 
