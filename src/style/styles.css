@@ -23,6 +23,15 @@ body{
     margin-top: 100px;
     
 }
+
+.navbar-dark .navbar-brand {
+    color: rgb(243, 203, 26);
+}
+.navbar-dark .navbar-brand:hover {
+    color: rgb(243, 203, 26);
+}
+
+
 /* TITLE / INFO / PERSONAL INFO */
 
 /* SKILLS */
