@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <>
             
-            <Navbar bg="gradient-primary" variant="dark" expand="lg" sticky="top">
+            <Navbar bg="dark" variant="dark" expand="lg" sticky="top">
                 <Container>
                     <Navbar.Brand>Armando González</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
