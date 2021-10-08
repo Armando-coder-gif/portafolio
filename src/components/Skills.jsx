@@ -10,7 +10,7 @@ const Skills = () => {
 
                 <Row>
                     <Col>
-                        <h3 className="skills-h3 mt-4">Pyhton</h3>
+                        <h3 className="skills-h3 mt-4">Python</h3>
                         <ProgressBar variant="warning" now={95} />
                     </Col>
                     <Col>
