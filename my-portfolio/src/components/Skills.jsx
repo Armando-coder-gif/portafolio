@@ -65,7 +65,7 @@ const Skills = () => {
                 
                 <Row>
                     <Col>
-                        <h3 className="skills-h3 mt-4">bootstrap</h3>
+                        <h3 className="skills-h3 mt-4">Bootstrap</h3>
                         <ProgressBar variant="warning" now={40} />
                     </Col>
                     <Col></Col>

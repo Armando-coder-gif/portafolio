@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Info from './components/Info';
 import Skills from './components/Skills';
 import Social from './components/Social';
-// import { Button } from 'react-bootstrap';
 
 function App() {
   return (
