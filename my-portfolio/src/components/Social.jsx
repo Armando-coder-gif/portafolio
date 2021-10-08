@@ -10,31 +10,21 @@ const Social = () => {
 
                 <Row className="text-center mt-4">
                     <Col>
-                        <h3 className="title-social">Git Hub</h3>
-                        <Button variant="primary" href="https://github.com/Armando-coder-gif/portafolio/tree/master/my-portfolio" target="_blank">
-                            Repository
-                        </Button>
+                        <a variant="primary" href="https://github.com/Armando-coder-gif/portafolio/tree/master/my-portfolio" target="_blank">
+                            <h3 className="title-social">Repository</h3>
+                        </a>
                     </Col>
 
                     <Col>
-                        <h3 className="title-social">Instagram</h3>
-                        <Button variant="primary" href="https://www.instagram.com/amd.1002/" target="_blank">
-                            Account
-                        </Button>
+                        <a variant="primary" href="https://www.instagram.com/amd.1002/" target="_blank">
+                            <h3 className="title-social">Instagram</h3>
+                        </a>
                     </Col>
 
                     <Col>
-                        <h3 className="title-social">Gmail</h3>
-                        <Button variant="primary" href="ajgu2001@gmail.com" target="_blank">
-                            Gmail
-                        </Button>
-                    </Col>
-
-                    <Col>
-                        <h3 className="title-social">CV</h3>
-                        <Button variant="primary" href="https://drive.google.com/file/d/1d0otw_6xDTvaECmJU61unpYVmo_zXu43/view?usp=sharing" target="_blank">
-                            Google Drive
-                        </Button>
+                        <a variant="primary" href="https://drive.google.com/file/d/1d0otw_6xDTvaECmJU61unpYVmo_zXu43/view?usp=sharing" target="_blank">
+                            <h3 className="title-social">CV</h3>
+                        </a>
                     </Col>
                     
 
