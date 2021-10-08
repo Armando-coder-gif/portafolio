@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Col, Row, Button } from 'react-bootstrap';
+import { Container, Col, Row } from 'react-bootstrap';
 
 const Social = () => {
     return (
@@ -10,7 +10,7 @@ const Social = () => {
 
                 <Row className="text-center mt-4">
                     <Col>
-                        <a variant="primary" href="https://github.com/Armando-coder-gif/portafolio/tree/master/my-portfolio" target="_blank">
+                        <a variant="primary"  href="https://github.com/Armando-coder-gif/portafolio/tree/master/my-portfolio" target="_blank">
                             <h3 className="title-social">Repository</h3>
                         </a>
                     </Col>
